@@ -1,0 +1,7 @@
+print(abs(-15.5))
+print(round(3.8))
+print(trunc(3.8))
+print(round(4.483847, digits = 1))
+print(sqrt(9.99999))
+print(log(16))
+print(logb(16, base = 2))
